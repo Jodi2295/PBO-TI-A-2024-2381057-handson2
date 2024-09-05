@@ -2,7 +2,12 @@ public class Assignment {
     public static void main(String[] args) {
         // 1. Operator Assignment Dasar
         int angka = 10;
-        int = ;
+        String nama = "Alice";
+
+        System.out.println("Nilai angka : " + angka);
+
+        System.out.println("Nilai angka : " + angka);
+        System.out.println("Nilai nama : " + nama);
 
         // 2. Operator Assignment Aritmatika
         int x = 5;

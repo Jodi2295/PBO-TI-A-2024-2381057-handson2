@@ -1,4 +1,4 @@
-package binaryopertor;
+package binaryoperator;
 
 public class Aritmatika {
     public static void main(String[] args) {
